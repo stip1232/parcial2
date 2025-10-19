@@ -1,7 +1,4 @@
-# parcial2# Sistema simple de gestión de actividades (nivel novato)
-# — Corto, con variables sencillas y funciones pequeñas (modular).
-# — Usa listas, tuplas y diccionarios.
-# — Menús: Usuarios (CRUD) y Tareas (CRUD) + reportes.
+
 
 # ===== Catálogos (tuplas: datos fijos) =====
 estados = ("pendiente", "en_progreso", "completada")
